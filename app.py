@@ -3,7 +3,7 @@ import openai
 import PyPDF2
 
 # Set up OpenAI API
-openai.api_key = "sk-proj-7GF6Bt86s8i0X6m2r9qCT3BlbkFJjs6Ag7V5kFiyiyt6qaLx"
+openai.api_key = "Enter you Key"
 
 # Function to extract text from PDF file
 def extract_text_from_pdf(pdf_file):
